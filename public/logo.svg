@@ -1,0 +1,11 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .yellow { fill: #FFD700; }
+    .gray { fill: #808080; }
+    .white { fill: #FFFFFF; }
+  </style>
+  <circle cx="50" cy="50" r="45" class="yellow" />
+  <rect x="25" y="30" width="50" height="5" class="white" rx="2.5" ry="2.5"/>
+  <rect x="25" y="45" width="50" height="5" class="white" rx="2.5" ry="2.5"/>
+  <rect x="25" y="60" width="35" height="5" class="white" rx="2.5" ry="2.5"/>
+</svg>
