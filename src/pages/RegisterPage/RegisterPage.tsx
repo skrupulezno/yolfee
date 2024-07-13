@@ -1,4 +1,3 @@
-import React from "react";
 import "./RegisterPage.module.scss";
 import { Link } from "react-router-dom";
 import SignUp from "../../components/SignUp/SignUp";
