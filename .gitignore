@@ -24,4 +24,4 @@ dist-ssr
 *.sw?
 
 # Key
-firebaseConfig.ts
+.env

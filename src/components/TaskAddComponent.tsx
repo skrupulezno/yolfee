@@ -1,5 +1,5 @@
 import React, { useState, ChangeEvent } from "react";
-import { db } from "../firebase";
+import { db } from "../firebase/firebase";
 import { collection, addDoc, serverTimestamp } from "firebase/firestore";
 
 const AddTask: React.FC = () => {
